@@ -1,9 +1,4 @@
 
----
-
-### فایل `README.FA.md` (فارسی)
-
-```markdown
 # 🌐 سازنده EXE از آدرس وب‌سایت
 
 [🇬🇧 English](README.md) | [🇮🇷 فارسی](README.FA.md)
@@ -49,7 +44,7 @@
 
 ## 📸 اسکرین‌شات‌ها
 
-<img width="1598" height="849" alt="image" src="https://github.com/user-attachments/assets/b5212029-d0fe-41a1-9707-07fcf199ca21" />
+<img width="1599" height="848" alt="image" src="https://github.com/user-attachments/assets/fc13dc2f-301d-4c5c-8df2-b4fc153397ce" />
 
 - رابط اصلی با فیلد URL و گزینه‌های پیشرفته  
 - لاگ ساخت در حین کامپایل  
